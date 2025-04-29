@@ -1,0 +1,4 @@
+DB_NAME=rac
+DB_USER=root
+DB_PASSWORD= 
+URL_CLIENTE=http://localhost:5173
